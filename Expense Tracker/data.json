@@ -1,0 +1,42 @@
+[
+    {
+        "amount": 500.0,
+        "category": "shitr",
+        "date": "2026-04-04"
+    },
+    {
+        "amount": 1000.0,
+        "category": "jeins",
+        "date": "2026-04-04"
+    },
+    {
+        "amount": 500.0,
+        "category": "bag",
+        "date": "2026-04-05"
+    },
+    {
+        "amount": 500.0,
+        "category": "shirt",
+        "date": "2026-04-05"
+    },
+    {
+        "amount": 600.0,
+        "category": "bag",
+        "date": "2026-04-05"
+    },
+    {
+        "amount": 700.0,
+        "category": "shirt",
+        "date": "2026-04-05"
+    },
+    {
+        "amount": 1000.0,
+        "category": "bag",
+        "date": "2026-04-05"
+    },
+    {
+        "amount": 700.0,
+        "category": "pant",
+        "date": "2026-04-05"
+    }
+]
